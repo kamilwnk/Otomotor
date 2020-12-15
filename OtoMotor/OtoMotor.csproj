@@ -6,10 +6,16 @@
 
   <ItemGroup>
     <PackageReference Include="bootstrap" Version="4.5.3" />
+    <PackageReference Include="Boxed.Mapping" Version="5.2.0" />
     <PackageReference Include="jQuery" Version="3.5.1" />
     <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="5.0.0" />
     <PackageReference Include="Microsoft.jQuery.Unobtrusive.Ajax" Version="3.2.6" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mappers\DtoToViewModel\" />
+    <Folder Include="Mappers\ViewModelToDto\" />
   </ItemGroup>
 
 </Project>

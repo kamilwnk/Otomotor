@@ -111,6 +111,15 @@
           }
         }
       },
+      "Boxed.Mapping/5.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Boxed.Mapping.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Boxed.Mapping.dll": {}
+        }
+      },
       "jQuery/3.5.1": {
         "type": "package"
       },
@@ -195,6 +204,30 @@
         "contentFiles/any/any/wwwroot/js/bootstrap.js.map",
         "contentFiles/any/any/wwwroot/js/bootstrap.min.js",
         "contentFiles/any/any/wwwroot/js/bootstrap.min.js.map"
+      ]
+    },
+    "Boxed.Mapping/5.2.0": {
+      "sha512": "aMiQjJUGYtiiSZDV7BcoipqWkfEUcGJStt9wJ5XnkgE2v+RyZekoGdnt/MYO0NlU/EV/tNhZZ1zNLmsikMO0Pg==",
+      "type": "package",
+      "path": "boxed.mapping/5.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon-256x256.png",
+        "boxed.mapping.5.2.0.nupkg.sha512",
+        "boxed.mapping.nuspec",
+        "lib/net5.0/Boxed.Mapping.dll",
+        "lib/net5.0/Boxed.Mapping.pdb",
+        "lib/net5.0/Boxed.Mapping.xml",
+        "lib/netstandard1.3/Boxed.Mapping.dll",
+        "lib/netstandard1.3/Boxed.Mapping.pdb",
+        "lib/netstandard1.3/Boxed.Mapping.xml",
+        "lib/netstandard2.0/Boxed.Mapping.dll",
+        "lib/netstandard2.0/Boxed.Mapping.pdb",
+        "lib/netstandard2.0/Boxed.Mapping.xml",
+        "lib/netstandard2.1/Boxed.Mapping.dll",
+        "lib/netstandard2.1/Boxed.Mapping.pdb",
+        "lib/netstandard2.1/Boxed.Mapping.xml"
       ]
     },
     "jQuery/3.5.1": {
@@ -391,6 +424,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Boxed.Mapping >= 5.2.0",
       "Microsoft.Bcl.AsyncInterfaces >= 5.0.0",
       "Microsoft.jQuery.Unobtrusive.Ajax >= 3.2.6",
       "Newtonsoft.Json >= 12.0.3",
@@ -435,6 +469,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "Boxed.Mapping": {
+            "target": "Package",
+            "version": "[5.2.0, )"
+          },
           "Microsoft.Bcl.AsyncInterfaces": {
             "target": "Package",
             "version": "[5.0.0, )"

@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "OtoMotor/1.0.0": {
         "dependencies": {
+          "Boxed.Mapping": "5.2.0",
           "Microsoft.Bcl.AsyncInterfaces": "5.0.0",
           "Microsoft.jQuery.Unobtrusive.Ajax": "3.2.6",
           "Newtonsoft.Json": "12.0.3",
@@ -323,6 +324,17 @@
         "dependencies": {
           "jQuery": "3.5.1",
           "popper.js": "1.16.1"
+        }
+      },
+      "Boxed.Mapping/5.2.0": {
+        "runtime": {
+          "lib/netstandard2.1/Boxed.Mapping.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.2.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/Boxed.Mapping.dll": {}
         }
       },
       "jQuery/3.5.1": {},
@@ -2060,6 +2072,13 @@
       "sha512": "sha512-KQvCPAvvWyDErmwn+VqTLE/9skJ7Ypt2EXfmU/YXQv+0jPjz5q8HH9xsbsVVVt+vlQd3fmE1SPLPxEVMOesTRg==",
       "path": "bootstrap/4.5.3",
       "hashPath": "bootstrap.4.5.3.nupkg.sha512"
+    },
+    "Boxed.Mapping/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aMiQjJUGYtiiSZDV7BcoipqWkfEUcGJStt9wJ5XnkgE2v+RyZekoGdnt/MYO0NlU/EV/tNhZZ1zNLmsikMO0Pg==",
+      "path": "boxed.mapping/5.2.0",
+      "hashPath": "boxed.mapping.5.2.0.nupkg.sha512"
     },
     "jQuery/3.5.1": {
       "type": "package",

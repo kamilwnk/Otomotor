@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dnlOD138ifJ0y4fxB4mkTd9TYSEQkat6tMrkQrtSZ98inU6p7UrNyUXlCgl4sMJlr2PKQ7LzhTrXfBxUjg54fg==",
+  "dgSpecHash": "TN9U5fSAShPWBHMuCzKdWVg9mbGihdweg7V0BrT7fuPxIxQ+toDhcAe3GT1iXYxZgV2oFkQ9v89mpGeop3Sc+g==",
   "success": true,
   "projectFilePath": "C:\\VisualStudio-repos\\OtoMotor\\OtoMotor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\piotr\\.nuget\\packages\\bootstrap\\4.5.3\\bootstrap.4.5.3.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\boxed.mapping\\5.2.0\\boxed.mapping.5.2.0.nupkg.sha512",
     "C:\\Users\\piotr\\.nuget\\packages\\jquery\\3.5.1\\jquery.3.5.1.nupkg.sha512",
     "C:\\Users\\piotr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\piotr\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg.sha512",

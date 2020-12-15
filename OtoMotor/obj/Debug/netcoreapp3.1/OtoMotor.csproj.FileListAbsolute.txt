@@ -35,5 +35,6 @@ C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.csproj.CopyCompl
 C:\VisualStudio-repos\OtoMotor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.csprojAssemblyReference.cache
 C:\VisualStudio-repos\OtoMotor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\VisualStudio-repos\OtoMotor\bin\Debug\netcoreapp3.1\Boxed.Mapping.dll
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.csproj.CoreCompileInputs.cache
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.MvcApplicationPartsAssemblyInfo.cache
