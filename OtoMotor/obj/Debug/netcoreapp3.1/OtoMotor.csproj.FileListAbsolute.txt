@@ -11,8 +11,6 @@ C:\VisualStudio-repos\OtoMotor\bin\Debug\netcoreapp3.1\OtoMotor.Views.dll
 C:\VisualStudio-repos\OtoMotor\bin\Debug\netcoreapp3.1\OtoMotor.Views.pdb
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.AssemblyInfoInputs.cache
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.AssemblyInfo.cs
-C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.csproj.CoreCompileInputs.cache
-C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.MvcApplicationPartsAssemblyInfo.cache
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.RazorAssemblyInfo.cache
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.RazorAssemblyInfo.cs
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.TagHelpers.input.cache
@@ -34,3 +32,8 @@ C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.dll
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.pdb
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.genruntimeconfig.cache
 C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.csproj.CopyComplete
+C:\VisualStudio-repos\OtoMotor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.csprojAssemblyReference.cache
+C:\VisualStudio-repos\OtoMotor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.csproj.CoreCompileInputs.cache
+C:\VisualStudio-repos\OtoMotor\obj\Debug\netcoreapp3.1\OtoMotor.MvcApplicationPartsAssemblyInfo.cache

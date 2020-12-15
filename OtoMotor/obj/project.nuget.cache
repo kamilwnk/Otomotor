@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "5+eyu4NL86hT/m82gj+E7d6Jo9Q7Razx20VoQXIJmbFVFgR+bgar9AUQZVXqJ793M0O7/aIZiYwmmFQIzgED4Q==",
+  "dgSpecHash": "dnlOD138ifJ0y4fxB4mkTd9TYSEQkat6tMrkQrtSZ98inU6p7UrNyUXlCgl4sMJlr2PKQ7LzhTrXfBxUjg54fg==",
   "success": true,
   "projectFilePath": "C:\\VisualStudio-repos\\OtoMotor\\OtoMotor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\piotr\\.nuget\\packages\\bootstrap\\4.5.3\\bootstrap.4.5.3.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\jquery\\3.5.1\\jquery.3.5.1.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
   "logs": []
 }
